@@ -14,6 +14,6 @@ public class RedisController {
 
 
     public void setRedisTemplate() {
-
+        System.out.println("测试合并");
     }
 }
